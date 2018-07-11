@@ -1,0 +1,11 @@
+{
+  "name": "wolr-registration",
+  "version": "0.0.0",
+  "description": "Registration form for Waronline.net remake in order to gauge interest and get a mailing list going",
+  "main": "index.js",
+  "repository": "https://github.com/santanaG/wolr-registration.git",
+  "author": "santanaG",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
