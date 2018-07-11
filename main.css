@@ -1,0 +1,12 @@
+html {
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+html * {
+  box-sizing: border-box;
+}
+
+
